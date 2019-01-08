@@ -28,3 +28,15 @@ D:\MIN\MVC\MVCWeb\ConsoleApplication1\bin\Debug\zh-Hans\EntityFramework.SqlServe
 D:\MIN\MVC\MVCWeb\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\MIN\MVC\MVCWeb\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 D:\MIN\MVC\MVCWeb\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\ewe\C-\MVCWeb\ConsoleApplication1\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\ewe\C-\MVCWeb\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\ewe\C-\MVCWeb\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ewe\C-\MVCWeb\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
